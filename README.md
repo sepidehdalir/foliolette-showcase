@@ -33,11 +33,11 @@ Printer settings can change physical dimensions. Print at 100% / Actual Size and
 
 ## Engineering
 
-Swift 6, SwiftUI, Combine observation, PhotosUI, ImageIO, Core Graphics, PDFKit, UIKit printing/sharing and StoreKit 2. Deployment target iOS 16.0, built with Xcode 26.5. No third-party runtime dependencies or backend.
+Swift 6, SwiftUI, Combine observation, PhotosUI, ImageIO, Core Graphics, PDFKit, UIKit printing/sharing and StoreKit 2. Deployment target iOS 15.0, built with Xcode 26.5. No third-party runtime dependencies or backend.
 
 A millimetre-based model drives both preview and PDF placement. Deterministic packing preserves chosen dimensions and rejects overflow. Import bounds resolution and removes source metadata. Atomic, versioned local persistence protects drafts; templates retain dimensions without retaining personal photos. StoreKit grants Pro only from verified entitlements and handles pending approval, restoration, cancellation and revocation.
 
-Validation includes layout boundaries, crop geometry and visible pixels, PDF page boxes, import failures, persistence, purchase states and end-to-end UI. iOS 16 deployment compilation and simulator execution are distinct checks; this development Mac has no iOS 16 runtime. Physical accuracy is not claimed from PDF measurements alone.
+Validation includes layout boundaries, crop geometry and visible pixels, PDF page boxes, import failures, persistence, purchase states and end-to-end UI. iOS 15 deployment compilation and simulator execution are distinct checks; this development Mac has no iOS 15 runtime. Physical accuracy is not claimed from PDF measurements alone.
 
 ## Privacy and product work
 
