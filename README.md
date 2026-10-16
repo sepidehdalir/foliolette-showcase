@@ -2,11 +2,11 @@
 
 <img src="assets/icon.png" width="104" alt="Foliolette folded-paper icon">
 
-**Exact Photo Sizes & PDF** · A native iPhone product by [Sepideh Javanbakht Dalir](https://www.arvinify.com).
+**Exact Photo Sizes & PDF** · A native iPhone and iPad product by [Sepideh Javanbakht Dalir](https://www.arvinify.com).
 
 Choose photo dimensions in centimetres or inches, arrange an A4 or Letter sheet, and export a printable PDF. Built for albums, journals, memory boxes and everyday projects where physical size matters.
 
-**Status: production preparation; not released or submitted to the App Store.** No App Store link is available yet. Physical print measurements, real-device checks, signing and App Store Connect setup remain release gates.
+**Released October 15, 2026 · Version 1.0.** [Download Foliolette on the App Store](https://apps.apple.com/us/app/foliolette-print-to-size/id6816755162). Public US availability was verified against Apple’s catalog. Physical print measurements remain setup-dependent and are not claimed as verified.
 
 ## The product
 
